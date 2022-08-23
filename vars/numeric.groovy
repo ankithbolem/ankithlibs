@@ -1,3 +1,3 @@
-def call (numbers){
-  echo "${numbers}"
+def call (x,y){
+  echo "${x}+${y}"
 }
