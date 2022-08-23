@@ -1,3 +1,4 @@
 def call (x,y){
-  echo "${x}+${y}"
+  res=x+y
+  echo "${res}"
 }
