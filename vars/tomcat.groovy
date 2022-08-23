@@ -9,3 +9,4 @@ def call(ip,user)
              sh "ssh ${user}@${ip} /opt/tomcat9/bin/startup.sh"
 
                   }
+}
